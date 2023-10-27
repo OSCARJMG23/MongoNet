@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj": {}
+    "C:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj": {
+    "C:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj",
+        "projectUniqueName": "C:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj",
         "projectName": "JwtMongo",
-        "projectPath": "c:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj",
+        "projectPath": "C:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\JwtMongo.csproj",
         "packagesPath": "C:\\Users\\APT01-49\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\obj\\",
+        "outputPath": "C:\\Users\\APT01-49\\Desktop\\MongoNet\\JwtMongo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APT01-49\\AppData\\Roaming\\NuGet\\NuGet.Config"
